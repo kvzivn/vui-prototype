@@ -1,7 +1,8 @@
 Voice User Interface Prototype
 ==============================
 
-An interactive voice UI prototype for ordering groceries online. It was built to help my UX team to explore a multimodal ordering experience.
+An interactive voice UI prototype for ordering groceries online. 
+It was built to help my UX team explore a multimodal ordering experience.
 
 # Installation
 Clone this repo:
