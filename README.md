@@ -11,7 +11,7 @@ Clone this repo:
 
 Install all dependencies:
 
-`$ yarn install`
+`$ npm install`
 
 # Usage
 
